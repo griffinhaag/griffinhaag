@@ -31,7 +31,6 @@ The frontend is plain JS ([griffinhgames](https://github.com/griffinhaag/griffin
 
 - Working on C#/.NET services and Azure infrastructure at work
 - Adding new games and features to GriffinGames
-- Building a website for a real estate business
 
 When I'm not coding I'm probably playing CS2 or Rocket League, hanging out with friends, or stressing over school.
 
