@@ -1,18 +1,34 @@
-### Hi, I'm Griffin 👋
+### Hey, I'm Griffin 👋
 
-Full-stack developer in the Minneapolis area. I work part-time as a software developer at **KorTerra** (C#/.NET services, Azure with Terraform, Kubernetes) and I'm studying for a B.S. in Computer Science at the **University of Minnesota**.
+I build things for the web, mostly real-time, multiplayer, and anything that gets people in the same room laughing. By day I'm a software developer at KorTerra, and I'm working on a CS degree at the University of Minnesota.
 
-Before that I earned an A.A.S. in Web Programming & Database Development from Dunwoody College of Technology (2025, Dean's List). I'm also an AWS Certified Cloud Practitioner. I've built websites for local clients and taught Python at iD Tech.
+---
 
-**What I'm working on:** [GriffinGames](https://griffinhgames.netlify.app), party games my friends and I actually play. Its trivia game, LOCKED IN, runs on a Node/Socket.IO server I wrote, with rooms, buzz-in, reconnects, and LLM-graded answers.
+#### 🎮 GriffinGames: [play it here](https://griffinhgames.netlify.app)
 
-**Projects**
-- [griffinhgames](https://github.com/griffinhaag/griffinhgames) / [griffinhgames-server](https://github.com/griffinhaag/griffinhgames-server): browser party games and their real-time backend
-- [dayone](https://github.com/griffinhaag/dayone): capstone video help site for new students, hosted on AWS S3
-- [gadgethub-store](https://github.com/griffinhaag/gadgethub-store): ASP.NET MVC store with cart, checkout, and admin
-- [realtime-chat-docker](https://github.com/griffinhaag/realtime-chat-docker): Jenkins pipeline with Snyk, SonarQube, Docker Hub, and Compose deploys
-- [coursework](https://github.com/griffinhaag/coursework): smaller class projects in Java and C#
+My main side project. It's a set of party games my friends and I actually play. One person puts it on the TV, everyone else joins from their phone.
 
-**Tools:** C#/.NET, ASP.NET MVC · JavaScript, Node.js, Express, Socket.IO, React · Python · Java, Spring Boot · PHP · SQL Server, MySQL, MongoDB, Cosmos DB · Azure, AWS, Terraform, Docker, Kubernetes, Jenkins
+- **LOCKED IN**: a buzzer trivia game show with about 6,000 questions and free-response rounds graded by an LLM, so typos don't cost you the point
+- **Truth or Griddy** and **Kings Dice**: chaotic card and dice games for game night
+
+The frontend is plain JS ([griffinhgames](https://github.com/griffinhaag/griffinhgames)). The backend is Node and Socket.IO, handling rooms, buzz-ins, and phones that keep dropping Wi-Fi mid-game ([griffinhgames-server](https://github.com/griffinhaag/griffinhgames-server)).
+
+#### 🛠️ Other things I've built
+
+| | |
+| --- | --- |
+| [dayone](https://github.com/griffinhaag/dayone) | Capstone: a video help site so new students can fix setup issues on day one |
+| [php-ecommerce-store](https://github.com/griffinhaag/php-ecommerce-store) | An online store from scratch in PHP and MySQL |
+| [virtual-pet-api](https://github.com/griffinhaag/virtual-pet-api) | A tiny Spring Boot API for a pet named Gribble |
+| [realtime-chat-docker](https://github.com/griffinhaag/realtime-chat-docker) | A Jenkins pipeline with security scans, Docker builds, and auto-deploys |
+| [coursework](https://github.com/griffinhaag/coursework) | Smaller class projects in Java and C# |
+
+#### 🔭 Right now
+
+- Working on C#/.NET services and Azure infrastructure at work
+- Adding new games and features to GriffinGames
+- Rebuilding my personal site from scratch
+
+When I'm not coding I'm probably playing soccer, skiing, cooking, or losing at board games.
 
 [griffinh.me](https://griffinh.me) · [LinkedIn](https://www.linkedin.com/in/griffin-haag-8034252b2)
