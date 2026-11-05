@@ -6,7 +6,7 @@ I build things for the web, mostly real-time, multiplayer, and anything that get
 
 #### 1. 🏔️ griffinh.me: [see it here](https://griffinh.me)
 
-My portfolio, built from scratch with Astro and Tailwind. The hero is a night mountain range drawn on a canvas that you can play with: make it snow, drag the skier down the slopes, and ride the gondola back to the top. My two featured projects are playable right on the page, and there's a hidden terminal with a few easter eggs ([griffinh](https://github.com/griffinhaag/griffinh)).
+My portfolio, built from scratch with Astro and Tailwind. The homepage opens on a night mountain range drawn on a canvas that you can play with: make it snow, drag the skier down the slopes, and ride the gondola back to the top. My two featured projects are playable right on the page, and there's a hidden terminal with a few easter eggs ([griffinh](https://github.com/griffinhaag/griffinh)).
 
 #### 2. 🎮 GriffinGames: [play it here](https://griffinhgames.xyz)
 
