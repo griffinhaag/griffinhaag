@@ -4,7 +4,7 @@ I build things for the web, mostly real-time, multiplayer, and anything that get
 
 ---
 
-#### 🎮 GriffinGames: [play it here](https://griffinhgames.netlify.app)
+#### 🎮 GriffinGames: [play it here](https://griffinhgames.xyz)
 
 My main side project. It's a set of party games my friends and I actually play. One person puts it on the TV, everyone else joins from their phone.
 
