@@ -29,6 +29,6 @@ The frontend is plain JS ([griffinhgames](https://github.com/griffinhaag/griffin
 - Adding new games and features to GriffinGames
 - Rebuilding my personal site from scratch
 
-When I'm not coding I'm probably playing soccer, skiing, cooking, or losing at board games.
+When I'm not coding I'm probably playing gaming playing CS2 or Rocket League, hanging out with friends, or stressing over school.
 
 [griffinh.me](https://griffinh.me) · [LinkedIn](https://www.linkedin.com/in/griffin-haag-8034252b2)
